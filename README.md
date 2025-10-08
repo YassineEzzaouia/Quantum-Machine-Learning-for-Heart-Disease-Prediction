@@ -1,6 +1,6 @@
 This repository contains a hybrid quantum-classical machine learning project for predicting heart disease using the UCI Heart Disease dataset.
 
-🎯 Main Objectives
+--------------------------------------🎯 Main Objectives-------------------------------------
 
 This project titled Quantum Machine Learning for Heart Disease Prediction aims to:
 
@@ -22,8 +22,8 @@ This project titled Quantum Machine Learning for Heart Disease Prediction aims t
 
     Visualize and interpret results through metrics such as accuracy, ROC curves, and AUC to assess and compare model performance.
 
-🧠 Tools and Technologies Used
-🧩 Core Libraries
+--------------------------------------🧠 Tools and Technologies Used--------------------------------------
+--------------------------------------🧩 Core Libraries--------------------------------------
 
 -Pandas, NumPy → Data manipulation and preprocessing
 
@@ -31,7 +31,7 @@ This project titled Quantum Machine Learning for Heart Disease Prediction aims t
 
 -JSON → Result export and storage
 
-⚙️ Machine Learning (Classical)
+--------------------------------------⚙️ Machine Learning (Classical)--------------------------------------
 
 -Scikit-learn (sklearn)
 
@@ -45,7 +45,7 @@ This project titled Quantum Machine Learning for Heart Disease Prediction aims t
 
 -Optuna → Automatic hyperparameter optimization
 
-🧬 Quantum Machine Learning
+--------------------------------------🧬 Quantum Machine Learning--------------------------------------
 
 -PennyLane (qml) → Framework for creating and training variational quantum circuits (VQCs)
 
